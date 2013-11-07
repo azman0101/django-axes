@@ -1,4 +1,4 @@
-Django Axes
+Django Axes -
 ===========
 
 .. image:: https://secure.travis-ci.org/azman0101/django-axes.png?branch=master
