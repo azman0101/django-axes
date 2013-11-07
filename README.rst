@@ -1,9 +1,9 @@
 Django Axes
 ===========
 
-.. image:: https://secure.travis-ci.org/django-security/django-axes.png?branch=master
+.. image:: https://secure.travis-ci.org/azman0101django-axes.png?branch=master
     :alt: Build Status
-    :target: http://travis-ci.org/django-security/django-axes
+    :target: http://travis-ci.org/azman0101/django-axes
 
 ``django-axes`` is a very simple way for you to keep track of failed login
 attempts, both for the Django admin and for the rest of your site.  The name is
