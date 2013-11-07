@@ -1,7 +1,7 @@
 Django Axes
 ===========
 
-.. image:: https://secure.travis-ci.org/azman0101django-axes.png?branch=master
+.. image:: https://secure.travis-ci.org/azman0101/django-axes.png?branch=master
     :alt: Build Status
     :target: http://travis-ci.org/azman0101/django-axes
 
